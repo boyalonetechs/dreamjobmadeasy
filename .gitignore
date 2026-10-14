@@ -1,0 +1,9 @@
+node_modules/
+.next/
+dist/
+target/
+.kilo
+.env
+.env.local
+frontend/certificates/
+certificates/
